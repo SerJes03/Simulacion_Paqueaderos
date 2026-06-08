@@ -93,5 +93,3 @@ python simulacion_parqueadero.py
 ## 📚 Autor
 
 Jessica Serna Vargas
-
-Proyecto académico – Simulación de Eventos Discretos.
